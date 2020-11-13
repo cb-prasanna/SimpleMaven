@@ -103,7 +103,7 @@
                     </execution>
                     <execution>
                         <id>prepare-coverage-report</id>
-                        <phase>packages</phase>
+                        <phase>package</phase>
                         <goals>
                             <goal>report</goal>
                         </goals>
