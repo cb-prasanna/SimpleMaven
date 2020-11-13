@@ -6,4 +6,10 @@ public class App {
         String b = "yoyo";
         return;
     }
+
+    static void yoyo2(){
+        int a = 1;
+        String b = "yoyo";
+        return;
+    }
 }
