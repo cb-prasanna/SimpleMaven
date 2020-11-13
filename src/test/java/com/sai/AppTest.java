@@ -13,7 +13,6 @@ public class AppTest {
     void testMethod() {
         App app = new App();
 //        App.yoyo();
-        ab
         assertTrue( true );
     }
 }
