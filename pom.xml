@@ -103,7 +103,7 @@
                     </execution>
                     <execution>
                         <id>prepare-coverage-report</id>
-                        <phase>post-integration-test</phase>
+                        <phase>test</phase>
                         <goals>
                             <goal>report</goal>
                         </goals>
