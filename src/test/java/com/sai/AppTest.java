@@ -12,7 +12,7 @@ public class AppTest {
     @Test
     void testMethod() {
         App app = new App();
-        App.yoyo();
+//        App.yoyo();
         assertTrue( true );
     }
 }
