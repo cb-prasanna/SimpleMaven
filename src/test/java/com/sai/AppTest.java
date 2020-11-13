@@ -13,6 +13,7 @@ public class AppTest {
     void testMethod() {
         App app = new App();
 //        App.yoyo();
+        a
         assertTrue( true );
     }
 }
