@@ -103,7 +103,7 @@
                     </execution>
                     <execution>
                         <id>prepare-coverage-report</id>
-                        <phase>test</phase>
+                        <phase>package</phase>
                         <goals>
                             <goal>report</goal>
                         </goals>
@@ -122,7 +122,7 @@
                                         <limit>
                                             <counter>LINE</counter>
                                             <value>COVEREDRATIO</value>
-                                            <minimum>95%</minimum>
+                                            <minimum>90%</minimum>
                                         </limit>
                                     </limits>
                                 </rule>
